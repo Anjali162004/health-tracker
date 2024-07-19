@@ -1,7 +1,4 @@
-Here's a detailed README for your Health Challenge Tracker project:
-
----
-
+ 
 # Health Challenge Tracker
 
 ## Table of Contents
